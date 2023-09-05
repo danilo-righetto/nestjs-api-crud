@@ -1,73 +1,75 @@
+<h1 align="center">
+  <p align="center">Nestjs - API - Danilo Righetto</p>
+  <img src="https://imgur.com/b2LuLY9.jpg" alt="Nestjs - API - Danilo Righetto">
+</h1>
+
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
+  <a href="https://imgur.com/fbwPu3A.jpg"><img src="https://img.shields.io/badge/cardapio-working-brightgreen?color=green" alt="Nestjs - API - Danilo Righetto"></a>
+  <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome with Admins"></a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+## Introduction/Introdução
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+O projeto se baseia em um crud simples utilizando o framework [nestjs](https://nestjs.com/).
 
-## Description
+## Installation/Instalação
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Em desenvolvimento ...
 
-## Installation
+## Advantages of using NestJS/Vantagens de usar NestJS
 
-```bash
-$ yarn install
-```
+### Arquitetura limpa e modular
 
-## Running the app
+A arquitetura do NestJS é baseada no padrão de arquitetura de software chamado "Clean Architecture". Isso significa que o aplicativo é dividido em camadas separadas com responsabilidades claras. Essa abordagem ajuda a criar um código limpo, modular e facilmente testável.
 
-```bash
-# development
-$ yarn run start
+### Suporte integrado ao TypeScript
 
-# watch mode
-$ yarn run start:dev
+NestJS é escrito em TypeScript e fornece suporte integrado para essa linguagem. Isso significa que você pode usar recursos avançados de TypeScript, como tipos de dados estáticos, interfaces e decoradores, para escrever seu código. Além disso, o TypeScript ajuda a detectar erros em tempo de compilação, reduzindo a probabilidade de erros no tempo de execução.
 
-# production mode
-$ yarn run start:prod
-```
+### Facilidade de desenvolvimento
 
-## Test
+NestJS usa o padrão de injeção de dependência para gerenciar as dependências de seus componentes. Isso facilita a criação e o teste de aplicativos, pois você pode injetar facilmente dependências em seus componentes e substituí-las por implementações simuladas durante os testes.
 
-```bash
-# unit tests
-$ yarn run test
+### Escalabilidade
 
-# e2e tests
-$ yarn run test:e2e
+NestJS é projetado para criar aplicativos escaláveis do lado do servidor. Ele usa o padrão de programação reativa para permitir a comunicação entre diferentes partes do aplicativo. Além disso, ele suporta a criação de aplicativos de microsserviços, permitindo que você divida seu aplicativo em pequenos serviços independentes.
 
-# test coverage
-$ yarn run test:cov
-```
+### Compatibilidade com outros frameworks Node.js
 
-## Support
+NestJS é compatível com outros frameworks Node.js, como o Express. Isso significa que você pode usar seu conhecimento existente de Express para construir aplicativos usando NestJS. Além disso, ele é compatível com bibliotecas Node.js populares, como a biblioteca de ORM TypeORM.
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+<h3 align="center">
+  <p align="center">Downloads - Nestjs 2023</p>
+  <img src="https://imgur.com/IWbfnta.jpg" alt="Downloads - Nestjs 2023">
+</h3>
 
-## Stay in touch
+> Fonte dos dados [Downloads - Nestjs 2023](https://npmtrends.com/@adonisjs/core-vs-@feathersjs/feathers-vs-@nestjs/core-vs-hapi-vs-restify).
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+## Companies that are using Nestjs/Empresas que estão usando Nestjs
 
-## License
+1. **Microsoft** - A Microsoft utiliza o NestJS em vários de seus projetos, incluindo o Visual Studio Code Live Share, o Microsoft Teams e o PowerApps.
 
-Nest is [MIT licensed](LICENSE).
+2. **Accenture** - A Accenture, uma das maiores empresas de consultoria do mundo, utiliza o NestJS para desenvolvimento de soluções em nuvem, como o Accenture Cloud Platform.
+
+3. **PacketFabric** - A PacketFabric, provedora de serviços de rede em nuvem, utiliza o NestJS em seu back-end para gerenciamento de recursos de rede.
+
+4. **Alibaba** - A Alibaba, empresa chinesa de comércio eletrônico, utiliza o NestJS em seus serviços em nuvem, incluindo o Aliyun Serverless.
+
+5. **HubbleHQ** - A HubbleHQ, plataforma imobiliária com sede em Londres, utiliza o NestJS em seu back-end para gerenciamento de propriedades e reservas.
+
+## Versioning/Versionamento
+
+O projeto está sendo versionado utilizando o padrão [Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04).
+
+## Contributing/Contribuir
+
+Quer contribuir com o projeto? [Veja como contribuir por aqui](./CONTRIBUTING.md).
+
+## Code of Conduct/Código de Conduta
+
+Veja o nosso [Código de Conduta](./CODE_OF_CONDUCT.md).
+
+## License/Licença do Projeto
+
+[MIT License](./LICENSE.md).
