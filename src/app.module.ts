@@ -8,6 +8,7 @@ import { MongooseModule } from '@nestjs/mongoose';
   imports: [
     UsersModule,
     MongooseModule.forRoot(
+      process.env.url ||
       'mongodb+srv://danilonewtrue:<password>@cluster0.jdx11yv.mongodb.net/',
     ),
   ],
